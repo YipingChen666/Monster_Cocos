@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "158e716d-aada-4615-b612-f664e09823a1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 233,
+  "height": 81,
+  "platformSettings": {},
+  "subMetas": {
+    "SportsDay.EndMessage.Win.11": {
+      "ver": "1.0.6",
+      "uuid": "6dfcea10-2639-4c30-8e10-d56a96c21c26",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "158e716d-aada-4615-b612-f664e09823a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 233,
+      "height": 81,
+      "rawWidth": 233,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
